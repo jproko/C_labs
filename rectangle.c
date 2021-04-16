@@ -21,10 +21,10 @@ int main()
     double area = width * height;
 
     //we print the calculated results
-    printf("Rectangle width : %lf \n", width); 
-    printf("Rectangle height : %lf \n", height);
-    printf("Rectangle perimeter: %lf \n", perimeter);
-    printf("Rectangle area: %lf \n", area);
+    printf("Rectangle width : %.2lf \n", width); 
+    printf("Rectangle height : %.2lf \n", height);
+    printf("Rectangle perimeter: %.2lf \n", perimeter);
+    printf("Rectangle area: %.2lf \n", area);
 
     return 0;
 }
