@@ -1,13 +1,13 @@
-/****************************************************
-*                                                   *
-* Author            : Julian Proko                  *
-* Purpose           : C Programming Challenge       *
-* Version           : 1.0                           *
-* Description       : Input (on start) parameters   *
-* Date Created      : 17/04/2021                    *
-* Last Modification : 17/04/2021                    *
-*                                                   *
-*****************************************************/
+/****************************************************************************
+*                                                                           *
+* Author            : Julian Proko                                          *
+* Purpose           : C Programming Challenge                               *
+* Version           : 1.0                                                   *
+* Description       : Calculate and display rectangle perimeter and area    *
+* Date Created      : 17/04/2021                                            *
+* Last Modification : 17/04/2021                                            *
+*                                                                           *
+*****************************************************************************/
 #include <stdio.h>
 
 int main()
