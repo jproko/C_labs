@@ -20,7 +20,7 @@ int main()
     double perimeter = 2*(width+height);
     double area = width * height;
 
-    //we print the results
+    //we print the calculated results
     printf("Rectangle width : %lf \n", width); 
     printf("Rectangle height : %lf \n", height);
     printf("Rectangle perimeter: %lf \n", perimeter);
