@@ -102,6 +102,6 @@ unsigned short int gCd(unsigned int a, unsigned int b)
         a=b;
         b=r;
     }
-
+    
     return a;
 }
